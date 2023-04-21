@@ -1,0 +1,21 @@
+.unitsHeading {
+    margin: 2vmax auto;
+    width: 15vw;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.171);
+    padding: 2vmax;
+    color: rgba(0, 0, 0, 0.678);
+    font: 500 1.5vmax "Montserrat";
+    text-align: center;
+  }
+  
+  .units {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 5vmax;
+    justify-content: center;
+    min-height: 30vh;
+    
+  }
+  .cCom{
+      padding-left: 4px;
+  }

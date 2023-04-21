@@ -1,0 +1,11 @@
+.infoCard{
+    position:absolute;
+    width: 152px;
+    height:95px;
+    left: 442px;
+    top: 515px;
+    background-color: red;
+    border-radius: 30px;
+
+
+}

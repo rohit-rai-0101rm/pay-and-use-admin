@@ -1,0 +1,702 @@
+[
+    {
+        "empCode": "55648-555",
+        "empName": "Leelah Roger",
+        "amountToBeRecovered": "$9.67",
+        "amountRecovered": "$7.76",
+        "recoveryPending": "$9.72"
+    },
+    {
+        "empCode": "36800-078",
+        "empName": "Waverly Darwent",
+        "amountToBeRecovered": "$6.80",
+        "amountRecovered": "$4.67",
+        "recoveryPending": "$7.91"
+    },
+    {
+        "empCode": "49483-387",
+        "empName": "Raquela Bickerstaff",
+        "amountToBeRecovered": "$6.17",
+        "amountRecovered": "$6.31",
+        "recoveryPending": "$2.06"
+    },
+    {
+        "empCode": "66715-4905",
+        "empName": "Cecily Durning",
+        "amountToBeRecovered": "$2.41",
+        "amountRecovered": "$4.82",
+        "recoveryPending": "$1.89"
+    },
+    {
+        "empCode": "68258-3033",
+        "empName": "Jay Sparry",
+        "amountToBeRecovered": "$0.49",
+        "amountRecovered": "$5.62",
+        "recoveryPending": "$9.99"
+    },
+    {
+        "empCode": "36987-1242",
+        "empName": "Lek Ivankin",
+        "amountToBeRecovered": "$9.89",
+        "amountRecovered": "$8.74",
+        "recoveryPending": "$1.82"
+    },
+    {
+        "empCode": "49035-321",
+        "empName": "Valli Klaes",
+        "amountToBeRecovered": "$2.18",
+        "amountRecovered": "$2.91",
+        "recoveryPending": "$8.97"
+    },
+    {
+        "empCode": "61821-052",
+        "empName": "Harvey Aberkirder",
+        "amountToBeRecovered": "$5.63",
+        "amountRecovered": "$9.56",
+        "recoveryPending": "$7.39"
+    },
+    {
+        "empCode": "37000-754",
+        "empName": "Carmel Ferie",
+        "amountToBeRecovered": "$5.17",
+        "amountRecovered": "$3.86",
+        "recoveryPending": "$6.61"
+    },
+    {
+        "empCode": "0378-2223",
+        "empName": "Kristian Romer",
+        "amountToBeRecovered": "$8.92",
+        "amountRecovered": "$2.10",
+        "recoveryPending": "$2.35"
+    },
+    {
+        "empCode": "60429-524",
+        "empName": "Wells Coning",
+        "amountToBeRecovered": "$2.37",
+        "amountRecovered": "$5.33",
+        "recoveryPending": "$8.17"
+    },
+    {
+        "empCode": "37000-360",
+        "empName": "Tammy Corragan",
+        "amountToBeRecovered": "$9.18",
+        "amountRecovered": "$4.74",
+        "recoveryPending": "$8.56"
+    },
+    {
+        "empCode": "52731-7040",
+        "empName": "Reuben Stow",
+        "amountToBeRecovered": "$8.54",
+        "amountRecovered": "$1.21",
+        "recoveryPending": "$8.57"
+    },
+    {
+        "empCode": "0173-0845",
+        "empName": "Zacharias Oneile",
+        "amountToBeRecovered": "$0.53",
+        "amountRecovered": "$9.61",
+        "recoveryPending": "$0.45"
+    },
+    {
+        "empCode": "45985-646",
+        "empName": "Erskine Luttger",
+        "amountToBeRecovered": "$8.02",
+        "amountRecovered": "$8.03",
+        "recoveryPending": "$1.68"
+    },
+    {
+        "empCode": "11410-401",
+        "empName": "Hilliard Spratling",
+        "amountToBeRecovered": "$1.20",
+        "amountRecovered": "$9.51",
+        "recoveryPending": "$9.09"
+    },
+    {
+        "empCode": "55154-3429",
+        "empName": "Cahra Ianilli",
+        "amountToBeRecovered": "$0.57",
+        "amountRecovered": "$5.97",
+        "recoveryPending": "$9.48"
+    },
+    {
+        "empCode": "68382-092",
+        "empName": "Josias Matieu",
+        "amountToBeRecovered": "$4.48",
+        "amountRecovered": "$1.51",
+        "recoveryPending": "$7.49"
+    },
+    {
+        "empCode": "52959-077",
+        "empName": "Margeaux Osgar",
+        "amountToBeRecovered": "$5.60",
+        "amountRecovered": "$4.40",
+        "recoveryPending": "$2.61"
+    },
+    {
+        "empCode": "68788-9066",
+        "empName": "Margeaux Auden",
+        "amountToBeRecovered": "$7.88",
+        "amountRecovered": "$8.30",
+        "recoveryPending": "$0.26"
+    },
+    {
+        "empCode": "0009-5093",
+        "empName": "Paquito Hailwood",
+        "amountToBeRecovered": "$4.02",
+        "amountRecovered": "$4.45",
+        "recoveryPending": "$7.81"
+    },
+    {
+        "empCode": "36987-2618",
+        "empName": "Mattie Pletts",
+        "amountToBeRecovered": "$7.60",
+        "amountRecovered": "$0.18",
+        "recoveryPending": "$2.58"
+    },
+    {
+        "empCode": "63148-140",
+        "empName": "Sigvard Resun",
+        "amountToBeRecovered": "$3.48",
+        "amountRecovered": "$2.38",
+        "recoveryPending": "$0.64"
+    },
+    {
+        "empCode": "0574-0159",
+        "empName": "Cristin Mincini",
+        "amountToBeRecovered": "$1.15",
+        "amountRecovered": "$4.68",
+        "recoveryPending": "$3.36"
+    },
+    {
+        "empCode": "13537-203",
+        "empName": "Taffy Bryer",
+        "amountToBeRecovered": "$6.81",
+        "amountRecovered": "$0.82",
+        "recoveryPending": "$4.23"
+    },
+    {
+        "empCode": "49884-663",
+        "empName": "Kevina Pillington",
+        "amountToBeRecovered": "$4.75",
+        "amountRecovered": "$8.06",
+        "recoveryPending": "$3.80"
+    },
+    {
+        "empCode": "0245-0070",
+        "empName": "Bentlee Semmence",
+        "amountToBeRecovered": "$1.40",
+        "amountRecovered": "$0.44",
+        "recoveryPending": "$3.66"
+    },
+    {
+        "empCode": "49348-326",
+        "empName": "Tabby Gasking",
+        "amountToBeRecovered": "$1.60",
+        "amountRecovered": "$0.14",
+        "recoveryPending": "$7.81"
+    },
+    {
+        "empCode": "52125-077",
+        "empName": "Quinn Pyle",
+        "amountToBeRecovered": "$1.66",
+        "amountRecovered": "$8.58",
+        "recoveryPending": "$4.25"
+    },
+    {
+        "empCode": "0143-9809",
+        "empName": "Antoni Rocca",
+        "amountToBeRecovered": "$7.24",
+        "amountRecovered": "$2.91",
+        "recoveryPending": "$1.19"
+    },
+    {
+        "empCode": "63354-980",
+        "empName": "Kristin Feldon",
+        "amountToBeRecovered": "$6.09",
+        "amountRecovered": "$9.66",
+        "recoveryPending": "$7.62"
+    },
+    {
+        "empCode": "48951-8001",
+        "empName": "Zebulen Scadden",
+        "amountToBeRecovered": "$6.30",
+        "amountRecovered": "$7.31",
+        "recoveryPending": "$5.76"
+    },
+    {
+        "empCode": "66608-515",
+        "empName": "Giffy MacMenamin",
+        "amountToBeRecovered": "$0.91",
+        "amountRecovered": "$1.14",
+        "recoveryPending": "$3.03"
+    },
+    {
+        "empCode": "40104-003",
+        "empName": "Ber Solleme",
+        "amountToBeRecovered": "$0.95",
+        "amountRecovered": "$2.12",
+        "recoveryPending": "$0.40"
+    },
+    {
+        "empCode": "0268-1389",
+        "empName": "Luce Avrahm",
+        "amountToBeRecovered": "$4.67",
+        "amountRecovered": "$2.30",
+        "recoveryPending": "$3.38"
+    },
+    {
+        "empCode": "33261-061",
+        "empName": "Janka Dimmne",
+        "amountToBeRecovered": "$7.38",
+        "amountRecovered": "$2.03",
+        "recoveryPending": "$8.24"
+    },
+    {
+        "empCode": "0406-2540",
+        "empName": "Katti Folli",
+        "amountToBeRecovered": "$8.76",
+        "amountRecovered": "$9.70",
+        "recoveryPending": "$5.81"
+    },
+    {
+        "empCode": "41190-852",
+        "empName": "Lyn Lars",
+        "amountToBeRecovered": "$5.81",
+        "amountRecovered": "$9.65",
+        "recoveryPending": "$0.05"
+    },
+    {
+        "empCode": "76000-179",
+        "empName": "Rickie Rue",
+        "amountToBeRecovered": "$8.20",
+        "amountRecovered": "$3.86",
+        "recoveryPending": "$4.28"
+    },
+    {
+        "empCode": "55648-735",
+        "empName": "Kipper Tarney",
+        "amountToBeRecovered": "$4.28",
+        "amountRecovered": "$5.52",
+        "recoveryPending": "$7.54"
+    },
+    {
+        "empCode": "52544-847",
+        "empName": "Barn Miliffe",
+        "amountToBeRecovered": "$0.94",
+        "amountRecovered": "$9.42",
+        "recoveryPending": "$7.26"
+    },
+    {
+        "empCode": "49349-724",
+        "empName": "Delia Dunkerton",
+        "amountToBeRecovered": "$8.54",
+        "amountRecovered": "$2.29",
+        "recoveryPending": "$8.89"
+    },
+    {
+        "empCode": "11822-0338",
+        "empName": "Morena MacSporran",
+        "amountToBeRecovered": "$5.49",
+        "amountRecovered": "$3.40",
+        "recoveryPending": "$5.68"
+    },
+    {
+        "empCode": "54868-0916",
+        "empName": "Dredi Oldford",
+        "amountToBeRecovered": "$0.74",
+        "amountRecovered": "$7.67",
+        "recoveryPending": "$4.76"
+    },
+    {
+        "empCode": "59779-264",
+        "empName": "Olenka Smallwood",
+        "amountToBeRecovered": "$4.23",
+        "amountRecovered": "$4.30",
+        "recoveryPending": "$4.71"
+    },
+    {
+        "empCode": "37000-392",
+        "empName": "Annalee Langstone",
+        "amountToBeRecovered": "$1.01",
+        "amountRecovered": "$9.47",
+        "recoveryPending": "$3.04"
+    },
+    {
+        "empCode": "11822-0344",
+        "empName": "Alasdair Kneale",
+        "amountToBeRecovered": "$6.03",
+        "amountRecovered": "$1.20",
+        "recoveryPending": "$2.66"
+    },
+    {
+        "empCode": "62011-0185",
+        "empName": "Dara Gimenez",
+        "amountToBeRecovered": "$2.42",
+        "amountRecovered": "$1.67",
+        "recoveryPending": "$6.95"
+    },
+    {
+        "empCode": "49288-0588",
+        "empName": "Bradney Hartzog",
+        "amountToBeRecovered": "$3.52",
+        "amountRecovered": "$9.81",
+        "recoveryPending": "$5.04"
+    },
+    {
+        "empCode": "49643-357",
+        "empName": "Daniella Skahill",
+        "amountToBeRecovered": "$1.16",
+        "amountRecovered": "$8.28",
+        "recoveryPending": "$0.63"
+    },
+    {
+        "empCode": "0703-8411",
+        "empName": "Inglis Maltman",
+        "amountToBeRecovered": "$6.78",
+        "amountRecovered": "$2.86",
+        "recoveryPending": "$3.58"
+    },
+    {
+        "empCode": "53808-0750",
+        "empName": "Fletcher Blaisdell",
+        "amountToBeRecovered": "$6.61",
+        "amountRecovered": "$7.41",
+        "recoveryPending": "$6.32"
+    },
+    {
+        "empCode": "0187-5268",
+        "empName": "Jeniece Chatan",
+        "amountToBeRecovered": "$9.51",
+        "amountRecovered": "$9.80",
+        "recoveryPending": "$2.17"
+    },
+    {
+        "empCode": "49401-101",
+        "empName": "Geralda Indge",
+        "amountToBeRecovered": "$1.46",
+        "amountRecovered": "$7.82",
+        "recoveryPending": "$1.84"
+    },
+    {
+        "empCode": "63629-3731",
+        "empName": "Nichole Fumagall",
+        "amountToBeRecovered": "$5.86",
+        "amountRecovered": "$3.72",
+        "recoveryPending": "$8.31"
+    },
+    {
+        "empCode": "16590-453",
+        "empName": "Karry Smithe",
+        "amountToBeRecovered": "$9.21",
+        "amountRecovered": "$2.94",
+        "recoveryPending": "$8.72"
+    },
+    {
+        "empCode": "55312-467",
+        "empName": "Thatch Cyphus",
+        "amountToBeRecovered": "$4.77",
+        "amountRecovered": "$6.19",
+        "recoveryPending": "$8.81"
+    },
+    {
+        "empCode": "68021-1001",
+        "empName": "Reinwald Guare",
+        "amountToBeRecovered": "$3.29",
+        "amountRecovered": "$3.73",
+        "recoveryPending": "$8.00"
+    },
+    {
+        "empCode": "54868-6116",
+        "empName": "Thelma Jedrachowicz",
+        "amountToBeRecovered": "$1.43",
+        "amountRecovered": "$8.24",
+        "recoveryPending": "$0.69"
+    },
+    {
+        "empCode": "48951-3030",
+        "empName": "Evangelia Warmington",
+        "amountToBeRecovered": "$5.07",
+        "amountRecovered": "$2.83",
+        "recoveryPending": "$9.73"
+    },
+    {
+        "empCode": "49981-005",
+        "empName": "Justino Fontin",
+        "amountToBeRecovered": "$3.19",
+        "amountRecovered": "$7.79",
+        "recoveryPending": "$5.19"
+    },
+    {
+        "empCode": "33342-052",
+        "empName": "Winn Scriver",
+        "amountToBeRecovered": "$1.01",
+        "amountRecovered": "$3.89",
+        "recoveryPending": "$1.05"
+    },
+    {
+        "empCode": "48951-4038",
+        "empName": "Mahmud Fisher",
+        "amountToBeRecovered": "$5.42",
+        "amountRecovered": "$4.34",
+        "recoveryPending": "$1.79"
+    },
+    {
+        "empCode": "55154-5985",
+        "empName": "Guillemette Stratten",
+        "amountToBeRecovered": "$4.03",
+        "amountRecovered": "$2.15",
+        "recoveryPending": "$3.81"
+    },
+    {
+        "empCode": "68788-9053",
+        "empName": "Dari Fair",
+        "amountToBeRecovered": "$2.81",
+        "amountRecovered": "$9.54",
+        "recoveryPending": "$6.16"
+    },
+    {
+        "empCode": "61442-102",
+        "empName": "Lesli Cheng",
+        "amountToBeRecovered": "$7.17",
+        "amountRecovered": "$3.98",
+        "recoveryPending": "$2.33"
+    },
+    {
+        "empCode": "0268-0813",
+        "empName": "Darryl Daggett",
+        "amountToBeRecovered": "$1.41",
+        "amountRecovered": "$4.75",
+        "recoveryPending": "$7.85"
+    },
+    {
+        "empCode": "36987-2556",
+        "empName": "Normand Von Salzberg",
+        "amountToBeRecovered": "$7.70",
+        "amountRecovered": "$3.52",
+        "recoveryPending": "$3.79"
+    },
+    {
+        "empCode": "43742-0204",
+        "empName": "Grace Alvar",
+        "amountToBeRecovered": "$4.50",
+        "amountRecovered": "$2.20",
+        "recoveryPending": "$4.97"
+    },
+    {
+        "empCode": "36987-3010",
+        "empName": "Judd Hyrons",
+        "amountToBeRecovered": "$6.34",
+        "amountRecovered": "$6.26",
+        "recoveryPending": "$9.14"
+    },
+    {
+        "empCode": "60505-0247",
+        "empName": "Albert Sulland",
+        "amountToBeRecovered": "$2.89",
+        "amountRecovered": "$6.98",
+        "recoveryPending": "$1.70"
+    },
+    {
+        "empCode": "0574-4160",
+        "empName": "Odette Krale",
+        "amountToBeRecovered": "$7.96",
+        "amountRecovered": "$0.30",
+        "recoveryPending": "$2.97"
+    },
+    {
+        "empCode": "59779-165",
+        "empName": "Jarvis Worsam",
+        "amountToBeRecovered": "$1.34",
+        "amountRecovered": "$3.86",
+        "recoveryPending": "$4.11"
+    },
+    {
+        "empCode": "50268-334",
+        "empName": "Misha Collocott",
+        "amountToBeRecovered": "$5.06",
+        "amountRecovered": "$8.16",
+        "recoveryPending": "$0.57"
+    },
+    {
+        "empCode": "17478-209",
+        "empName": "Steve Sayce",
+        "amountToBeRecovered": "$8.08",
+        "amountRecovered": "$8.84",
+        "recoveryPending": "$8.65"
+    },
+    {
+        "empCode": "46122-197",
+        "empName": "Emeline Billes",
+        "amountToBeRecovered": "$2.26",
+        "amountRecovered": "$7.90",
+        "recoveryPending": "$6.11"
+    },
+    {
+        "empCode": "43598-315",
+        "empName": "Idaline Scandred",
+        "amountToBeRecovered": "$4.67",
+        "amountRecovered": "$0.06",
+        "recoveryPending": "$5.62"
+    },
+    {
+        "empCode": "53808-0843",
+        "empName": "Noella Trussell",
+        "amountToBeRecovered": "$2.04",
+        "amountRecovered": "$3.95",
+        "recoveryPending": "$6.26"
+    },
+    {
+        "empCode": "50458-308",
+        "empName": "Chantalle Pont",
+        "amountToBeRecovered": "$2.69",
+        "amountRecovered": "$5.80",
+        "recoveryPending": "$7.31"
+    },
+    {
+        "empCode": "52731-7001",
+        "empName": "Angeli Wybern",
+        "amountToBeRecovered": "$2.75",
+        "amountRecovered": "$1.46",
+        "recoveryPending": "$2.55"
+    },
+    {
+        "empCode": "0245-0211",
+        "empName": "Constantin Jenicek",
+        "amountToBeRecovered": "$0.86",
+        "amountRecovered": "$3.07",
+        "recoveryPending": "$9.54"
+    },
+    {
+        "empCode": "54868-4125",
+        "empName": "Constanta Loynes",
+        "amountToBeRecovered": "$0.43",
+        "amountRecovered": "$6.22",
+        "recoveryPending": "$7.50"
+    },
+    {
+        "empCode": "42291-653",
+        "empName": "Shelby Fincher",
+        "amountToBeRecovered": "$7.99",
+        "amountRecovered": "$2.01",
+        "recoveryPending": "$3.71"
+    },
+    {
+        "empCode": "0268-0277",
+        "empName": "Decca Prinnett",
+        "amountToBeRecovered": "$1.36",
+        "amountRecovered": "$9.17",
+        "recoveryPending": "$9.57"
+    },
+    {
+        "empCode": "10096-0299",
+        "empName": "Findlay Lilburn",
+        "amountToBeRecovered": "$1.23",
+        "amountRecovered": "$3.67",
+        "recoveryPending": "$4.42"
+    },
+    {
+        "empCode": "52125-227",
+        "empName": "Lucila Readett",
+        "amountToBeRecovered": "$5.00",
+        "amountRecovered": "$6.73",
+        "recoveryPending": "$7.32"
+    },
+    {
+        "empCode": "48951-9027",
+        "empName": "Brodie Sandal",
+        "amountToBeRecovered": "$0.04",
+        "amountRecovered": "$5.31",
+        "recoveryPending": "$4.08"
+    },
+    {
+        "empCode": "64980-167",
+        "empName": "Hollyanne Noell",
+        "amountToBeRecovered": "$9.11",
+        "amountRecovered": "$0.94",
+        "recoveryPending": "$0.13"
+    },
+    {
+        "empCode": "55910-167",
+        "empName": "Opaline Dominy",
+        "amountToBeRecovered": "$6.74",
+        "amountRecovered": "$5.76",
+        "recoveryPending": "$8.74"
+    },
+    {
+        "empCode": "49715-001",
+        "empName": "Carney Guillotin",
+        "amountToBeRecovered": "$2.60",
+        "amountRecovered": "$1.60",
+        "recoveryPending": "$2.76"
+    },
+    {
+        "empCode": "0781-3094",
+        "empName": "Averyl Arpino",
+        "amountToBeRecovered": "$4.59",
+        "amountRecovered": "$1.88",
+        "recoveryPending": "$6.50"
+    },
+    {
+        "empCode": "60681-0011",
+        "empName": "Raynard Klimus",
+        "amountToBeRecovered": "$9.62",
+        "amountRecovered": "$2.24",
+        "recoveryPending": "$6.42"
+    },
+    {
+        "empCode": "49288-0896",
+        "empName": "Kathi Cuschieri",
+        "amountToBeRecovered": "$9.00",
+        "amountRecovered": "$3.25",
+        "recoveryPending": "$0.07"
+    },
+    {
+        "empCode": "62011-0161",
+        "empName": "Aubrette Panther",
+        "amountToBeRecovered": "$4.80",
+        "amountRecovered": "$8.95",
+        "recoveryPending": "$4.45"
+    },
+    {
+        "empCode": "63323-487",
+        "empName": "Glyn Carlile",
+        "amountToBeRecovered": "$2.02",
+        "amountRecovered": "$6.15",
+        "recoveryPending": "$5.43"
+    },
+    {
+        "empCode": "0527-1729",
+        "empName": "Louisette Dana",
+        "amountToBeRecovered": "$0.03",
+        "amountRecovered": "$6.44",
+        "recoveryPending": "$7.64"
+    },
+    {
+        "empCode": "68196-008",
+        "empName": "Gaston Shieldon",
+        "amountToBeRecovered": "$4.41",
+        "amountRecovered": "$6.45",
+        "recoveryPending": "$6.33"
+    },
+    {
+        "empCode": "53208-374",
+        "empName": "Marv Dollar",
+        "amountToBeRecovered": "$1.00",
+        "amountRecovered": "$8.42",
+        "recoveryPending": "$6.83"
+    },
+    {
+        "empCode": "67296-0152",
+        "empName": "Free Roadnight",
+        "amountToBeRecovered": "$6.20",
+        "amountRecovered": "$5.35",
+        "recoveryPending": "$1.44"
+    },
+    {
+        "empCode": "44911-0102",
+        "empName": "Rubie Adame",
+        "amountToBeRecovered": "$2.93",
+        "amountRecovered": "$0.92",
+        "recoveryPending": "$2.94"
+    }
+]

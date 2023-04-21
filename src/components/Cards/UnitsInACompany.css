@@ -1,0 +1,20 @@
+.unitsInAGroupCard {
+    background-color: #2E3192;
+    text-align: center;
+      width: 18vmax;
+      border-radius: 20px;
+      display: flex;
+      flex-direction: column;
+      text-decoration: none;
+      
+      color: #fff;
+      margin: 2vmax;
+      font:  "Montserrat";
+
+        padding-top: 0.5vmax;
+      transition: all 0.5s;
+      padding-bottom: 0.5vmax;
+    }
+    .createdAt{
+     padding-top: 30px;
+    }

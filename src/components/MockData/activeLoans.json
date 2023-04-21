@@ -1,0 +1,958 @@
+[
+    {
+        "empId": "614",
+        "empName": "Cletis Tonner",
+        "buName": "Ekso Bionics Holdings, Inc.",
+        "status":"pending",
+        "totalAmountToBeRecovered": "$4.13",
+        "currentOutstanding": "$6.65",
+        "emiCollected": "1/3",
+        "emiAmount": "$9.62"
+    },
+    {
+        "empId": "95",
+        "empName": "Loree Ferryn",
+        "buName": "Hornbeck Offshore Services",
+        "status":"pending",
+
+        "totalAmountToBeRecovered": "$8.98",
+        "emiCollected": "1/3",
+        "currentOutstanding": "$1.21",
+        "emiAmount": "$2.01"
+    },
+    {
+        "empId": "9865",
+        "empName": "Joe Sommerton",
+        "buName": "Validus Holdings, Ltd.",
+        "status":"pending",
+
+        "totalAmountToBeRecovered": "$6.17",
+        "currentOutstanding": "$3.39",
+        "emiCollected": "1/3",
+        "emiAmount": "$9.31"
+    },
+    {
+        "empId": "3",
+        "empName": "Ninon Graben",
+        "buName": "Western Asset Mortgage Defined Opportunity Fund Inc",
+        "totalAmountToBeRecovered": "$8.21",
+        "status":"pending",
+
+        "currentOutstanding": "$0.92",
+        "emiCollected": "1/3",
+        "emiAmount": "$0.06"
+    },
+    {
+        "empId": "900",
+        "empName": "Link Zapatero",
+        "buName": "Gardner Denver Holdings, Inc.",
+        "totalAmountToBeRecovered": "$4.42",
+        "status":"pending",
+
+        "currentOutstanding": "$2.51",
+        "emiCollected": "1/3",
+        "emiAmount": "$9.22"
+    },
+    {
+        "empId": "2",
+        "empName": "Madelina Pixton",
+        "buName": "White Mountains Insurance Group, Ltd.",
+        "totalAmountToBeRecovered": "$3.42",
+        "status":"pending",
+
+        "currentOutstanding": "$0.28",
+        "emiCollected": "1/3",
+        "emiAmount": "$9.82"
+    },
+    {
+        "empId": "0",
+        "empName": "Grange Drage",
+        "buName": "Donnelley Financial Solutions, Inc.",
+        "totalAmountToBeRecovered": "$5.90",
+        "currentOutstanding": "$6.68",
+        "status":"pending",
+
+        "emiCollected": "1/3",
+        "emiAmount": "$2.10"
+    },
+    {
+        "empId": "3498",
+        "empName": "Felicio Ofen",
+        "buName": "Bravo Brio Restaurant Group, Inc.",
+        "totalAmountToBeRecovered": "$3.87",
+        "currentOutstanding": "$0.55",
+        "status":"pending",
+        "emiCollected": "1/3",
+        "emiAmount": "$5.59"
+    },
+    {
+        "empId": "45624",
+        "empName": "Mike Yearns",
+        "buName": "United Bancshares, Inc.",
+        "totalAmountToBeRecovered": "$3.10",
+        "currentOutstanding": "$7.74",
+        "status":"pending",
+
+        "emiCollected": "1/3",
+        "emiAmount": "$6.35"
+    },
+    {
+        "empId": "304",
+        "empName": "Rutledge Danielczyk",
+        "buName": "Quinpario Acquisition Corp. 2",
+        "totalAmountToBeRecovered": "$4.45",        "status":"pending",
+
+        "currentOutstanding": "$5.14",
+        "emiCollected": "1/3",
+        "emiAmount": "$9.39"
+    },
+    {
+        "empId": "5088",
+        "empName": "Daria Middup",
+        "buName": "Public Storage",
+        "totalAmountToBeRecovered": "$9.47",        "status":"pending",
+
+        "currentOutstanding": "$8.88",
+        "emiCollected": "1/3",
+        "emiAmount": "$2.51"
+    },
+    {
+        "empId": "6889",
+        "empName": "Krystyna Zorro",
+        "buName": "Infinity Property and Casualty Corporation",        "status":"pending",
+
+        "totalAmountToBeRecovered": "$1.54",
+        "currentOutstanding": "$2.71",
+        "emiCollected": "1/3",
+        "emiAmount": "$4.74"
+    },
+    {
+        "empId": "99899",
+        "empName": "Kai Binnall",
+        "buName": "Bonso Electronics International, Inc.",
+        "totalAmountToBeRecovered": "$3.78",
+        "currentOutstanding": "$4.49",
+        "emiCollected": "1/3",
+        "emiAmount": "$6.45"
+    },
+    {
+        "empId": "066",
+        "empName": "Merry Abramowsky",
+        "buName": "RXi Pharmaceuticals Corporation",        "status":"pending",
+
+        "totalAmountToBeRecovered": "$0.90",
+        "currentOutstanding": "$7.68",
+        "emiCollected": "1/3",
+        "emiAmount": "$4.31"
+    },
+    {
+        "empId": "346",
+        "empName": "Karleen Wisniowski",
+        "buName": "Haemonetics Corporation",
+        "totalAmountToBeRecovered": "$7.31",
+        "currentOutstanding": "$1.35",        "status":"pending",
+
+        "emiCollected": "1/3",
+        "emiAmount": "$4.65"
+    },
+    {
+        "empId": "097",
+        "empName": "Gregory Bazek",
+        "buName": "OFG Bancorp",
+        "totalAmountToBeRecovered": "$6.27",        "status":"pending",
+
+        "currentOutstanding": "$5.19",
+        "emiCollected": "1/3",
+        "emiAmount": "$1.32"
+    },
+    {
+        "empId": "4",
+        "empName": "Virginia Radenhurst",
+        "buName": "Carvana Co.",
+        "totalAmountToBeRecovered": "$8.58",        "status":"pending",
+
+        "currentOutstanding": "$2.37",
+        "emiCollected": "1/3",
+        "emiAmount": "$9.04"
+    },
+    {
+        "empId": "96224",
+        "empName": "Trip Scanlon",
+        "buName": "Watsco, Inc.",
+        "totalAmountToBeRecovered": "$9.75",        "status":"pending",
+
+        "currentOutstanding": "$8.20",
+        "emiCollected": "1/3",
+        "emiAmount": "$1.28"
+    },
+    {
+        "empId": "4",
+        "empName": "Laure Alexandre",
+        "buName": "Chanticleer Holdings, Inc.",
+        "totalAmountToBeRecovered": "$7.20",        "status":"pending",
+
+        "currentOutstanding": "$6.64",
+        "emiCollected": "1/3",
+        "emiAmount": "$2.94"
+    },
+    {
+        "empId": "90839",
+        "empName": "Emlyn Wimpress",
+        "buName": "IRIDEX Corporation",
+        "totalAmountToBeRecovered": "$2.73",        "status":"pending",
+
+        "currentOutstanding": "$8.43",
+        "emiCollected": "1/3",
+        "emiAmount": "$1.28"
+    },
+    {
+        "empId": "88",
+        "empName": "Ally Seebright",
+        "buName": "Pioneer Municipal High Income Trust",
+        "totalAmountToBeRecovered": "$0.94",        "status":"pending",
+
+        "currentOutstanding": "$2.69",
+        "emiCollected": "1/3",
+        "emiAmount": "$5.03"
+    },
+    {
+        "empId": "90196",
+        "empName": "Pollyanna Carik",
+        "buName": "Melrose Bancorp, Inc.",
+        "totalAmountToBeRecovered": "$4.90",        "status":"pending",
+
+        "currentOutstanding": "$3.73",
+        "emiCollected": "1/3",
+        "emiAmount": "$9.67"
+    },
+    {
+        "empId": "4",
+        "empName": "Cloris Margett",
+        "buName": "At Home Group Inc.",
+        "totalAmountToBeRecovered": "$8.93",        "status":"pending",
+
+        "currentOutstanding": "$9.61",
+        "emiCollected": "1/3",
+        "emiAmount": "$7.72"
+    },
+    {
+        "empId": "098",
+        "empName": "Beale Bosenworth",
+        "buName": "Cal-Maine Foods, Inc.",
+        "totalAmountToBeRecovered": "$0.68",        "status":"pending",
+
+        "currentOutstanding": "$2.96",
+        "emiCollected": "1/3",
+        "emiAmount": "$4.88"
+    },
+    {
+        "empId": "10",
+        "empName": "Zachary Longbottom",
+        "buName": "Navios Maritime Midstream Partners LP",
+        "totalAmountToBeRecovered": "$5.79",        "status":"pending",
+
+        "currentOutstanding": "$0.19",
+        "emiCollected": "1/3",
+        "emiAmount": "$1.21"
+    },
+    {
+        "empId": "272",
+        "empName": "Milzie Sellen",
+        "buName": "J.M. Smucker Company (The)",
+        "totalAmountToBeRecovered": "$1.55",        "status":"pending",
+
+        "currentOutstanding": "$5.83",
+        "emiCollected": "1/3",
+        "emiAmount": "$1.70"
+    },
+    {
+        "empId": "3522",
+        "empName": "Cirillo Heindle",
+        "buName": "Imperva, Inc.",
+        "totalAmountToBeRecovered": "$4.34",        "status":"pending",
+
+        "currentOutstanding": "$2.90",
+        "emiCollected": "1/3",
+        "emiAmount": "$9.97"
+    },
+    {
+        "empId": "17",
+        "empName": "Dorette Rikkard",
+        "buName": "The Michaels Companies, Inc.",
+        "totalAmountToBeRecovered": "$2.99",        "status":"pending",
+
+        "currentOutstanding": "$7.88",
+        "emiCollected": "1/3",
+        "emiAmount": "$1.92"
+    },
+    {
+        "empId": "429",
+        "empName": "Gualterio Cattenach",
+        "buName": "Pebblebrook Hotel Trust",
+        "totalAmountToBeRecovered": "$9.45",        "status":"pending",
+
+        "currentOutstanding": "$6.28",
+        "emiCollected": "1/3",
+        "emiAmount": "$6.10"
+    },
+    {
+        "empId": "3657",
+        "empName": "Bobbie Zorzenoni",
+        "buName": "Telecom Argentina Stet - France Telecom S.A.",
+        "totalAmountToBeRecovered": "$6.37",
+        "currentOutstanding": "$1.96",        "status":"pending",
+
+        "emiCollected": "1/3",
+        "emiAmount": "$4.87"
+    },
+    {
+        "empId": "59437",
+        "empName": "Gabriello Fitzroy",
+        "buName": "National Retail Properties",
+        "totalAmountToBeRecovered": "$7.04",
+        "currentOutstanding": "$7.40",        "status":"pending",
+
+        "emiCollected": "1/3",
+        "emiAmount": "$8.04"
+    },
+    {
+        "empId": "4859",
+        "empName": "Theresita Berthomieu",
+        "buName": "Global Ship Lease, Inc.",
+        "totalAmountToBeRecovered": "$6.29",        "status":"pending",
+
+        "currentOutstanding": "$9.58",
+        "emiCollected": "1/3",
+        "emiAmount": "$0.06"
+    },
+    {
+        "empId": "75",
+        "empName": "Leroi Northley",
+        "buName": "Wheeler Real Estate Investment Trust, Inc.",
+        "totalAmountToBeRecovered": "$4.94",
+        "currentOutstanding": "$3.54",        "status":"pending",
+
+        "emiCollected": "1/3",
+        "emiAmount": "$9.50"
+    },
+    {
+        "empId": "2841",
+        "empName": "Correy Beare",
+        "buName": "Medical Transcription Billing, Corp.",
+        "totalAmountToBeRecovered": "$5.00",        "status":"pending",
+
+        "currentOutstanding": "$0.07",
+        "emiCollected": "1/3",
+        "emiAmount": "$0.03"
+    },
+    {
+        "empId": "2",
+        "empName": "Farrel Pillinger",
+        "buName": "Validus Holdings, Ltd.",        "status":"pending",
+
+        "totalAmountToBeRecovered": "$0.10",
+        "currentOutstanding": "$2.45",
+        "emiCollected": "1/3",
+        "emiAmount": "$4.22"
+    },
+    {
+        "empId": "70547",
+        "empName": "Marius Gedney",
+        "buName": "Biolase, Inc.",
+        "totalAmountToBeRecovered": "$9.07",
+        "currentOutstanding": "$3.39",        "status":"pending",
+
+        "emiAmount": "$1.94"
+    },
+    {
+        "empId": "57427",
+        "empName": "Mycah Wilfinger",
+        "buName": "Blackrock New York Municipal 2018 Term Trust",
+        "totalAmountToBeRecovered": "$4.86",
+        "currentOutstanding": "$2.59",        "status":"pending",
+
+        "emiCollected": "1/3",
+        "emiAmount": "$3.85"
+    },
+    {
+        "empId": "57",
+        "empName": "Elmore Gribbon",
+        "buName": "Blue Buffalo Pet Products, Inc.",
+        "totalAmountToBeRecovered": "$7.53",        "status":"pending",
+
+        "currentOutstanding": "$1.71",
+        "emiCollected": "1/3",
+        "emiAmount": "$6.42"
+    },
+    {
+        "empId": "0283",
+        "empName": "Harley Guilayn",
+        "buName": "One Horizon Group, Inc.",
+        "totalAmountToBeRecovered": "$0.41",        "status":"pending",
+
+        "currentOutstanding": "$9.13",
+        "emiCollected": "1/3",
+        "emiAmount": "$5.83"
+    },
+    {
+        "empId": "822",
+        "empName": "Shayla Tonbye",
+        "buName": "County Bancorp, Inc.",
+        "totalAmountToBeRecovered": "$2.87",        "status":"pending",
+
+        "currentOutstanding": "$1.64",
+        "emiCollected": "1/3",
+        "emiAmount": "$1.13"
+    },
+    {
+        "empId": "4420",
+        "empName": "Loralie Birtle",
+        "buName": "THL Credit Senior Loan Fund",
+        "totalAmountToBeRecovered": "$2.21",        "status":"pending",
+
+        "currentOutstanding": "$2.77",
+        "emiCollected": "1/3",
+        "emiAmount": "$3.05"
+    },
+    {
+        "empId": "9",
+        "empName": "Magda Osgerby",
+        "buName": "Celgene Corporation",
+
+        "totalAmountToBeRecovered": "$2.26",
+        "currentOutstanding": "$1.09",
+        "emiCollected": "1/3",
+        "emiAmount": "$7.43"
+    },
+    {
+        "empId": "60",
+        "empName": "Sybila Ianetti",
+        "buName": "Affiliated Managers Group, Inc.",
+
+        "totalAmountToBeRecovered": "$0.73",
+        "currentOutstanding": "$2.76",
+        "emiCollected": "1/3",
+        "emiAmount": "$0.83"
+    },
+    {
+        "empId": "07",
+        "empName": "Alphard Bellson",
+        "buName": "SITO Mobile, Ltd.",
+
+        "totalAmountToBeRecovered": "$2.39",
+        "currentOutstanding": "$4.54",
+        "emiCollected": "1/3",
+        "emiAmount": "$8.94"
+    },
+    {
+        "empId": "4",
+        "empName": "Norrie Swaddle",
+        "buName": "Coca-Cola Company (The)",
+        "totalAmountToBeRecovered": "$6.25",
+
+        "currentOutstanding": "$1.12",
+        "emiCollected": "1/3",
+        "emiAmount": "$1.98"
+    },
+    {
+        "empId": "87",
+        "empName": "Nerti Essberger",
+        "buName": "Gladstone Investment Corporation",
+        "totalAmountToBeRecovered": "$5.96",
+
+        "currentOutstanding": "$8.37",
+        "emiCollected": "1/3",
+        "emiAmount": "$2.13"
+    },
+    {
+        "empId": "60590",
+        "empName": "Evangelina Feldhammer",
+        "buName": "Synthetic Fixed-Income Securities, Inc.",
+
+        "totalAmountToBeRecovered": "$1.11",
+        "emiCollected": "1/3",
+        "currentOutstanding": "$9.37",
+
+
+
+
+        "emiAmount": "$7.43"
+    },
+    {
+        "empId": "3888",
+        "empName": "Mata Houson",
+        "buName": "Landmark Infrastructure Partners LP",
+        "totalAmountToBeRecovered": "$6.38",
+        "currentOutstanding": "$5.63",
+        "emiCollected": "1/3",
+        "emiAmount": "$5.35"
+    },
+    {
+        "empId": "6",
+        "empName": "Shaun Kloser",
+        "buName": "DLH Holdings Corp.",
+        "totalAmountToBeRecovered": "$2.23",
+        "emiCollected": "1/3",
+        "currentOutstanding": "$1.92",
+        "emiAmount": "$2.94"
+    },
+    {
+        "empId": "9",
+        "empName": "Celina Hafford",
+        "buName": "RLJ Entertainment, Inc.",
+        "totalAmountToBeRecovered": "$3.89",
+        "currentOutstanding": "$9.04",
+        "emiCollected": "1/3",
+        "emiAmount": "$3.59"
+    },
+    {
+        "empId": "7",
+        "empName": "Alano Guyers",
+        "buName": "Cellect Biotechnology Ltd.",
+        "totalAmountToBeRecovered": "$0.98",
+        "currentOutstanding": "$0.37",
+        "emiCollected": "1/3",
+        "emiAmount": "$2.14"
+    },
+    {
+        "empId": "53",
+        "empName": "Anica Fieldgate",
+        "buName": "BlackRock Energy and Resources Trust",
+        "totalAmountToBeRecovered": "$4.66",
+        "currentOutstanding": "$1.25",
+        "emiCollected": "1/3",
+        "emiAmount": "$1.55"
+    },
+    {
+        "empId": "22",
+        "empName": "Lorne Dooly",
+        "buName": "Bank of Marin Bancorp",
+        "totalAmountToBeRecovered": "$0.18",
+        "currentOutstanding": "$7.17",
+        "emiCollected": "1/3",
+        "emiAmount": "$9.15"
+    },
+    {
+        "empId": "328",
+        "empName": "Harlan Wigley",
+        "buName": "Rave Restaurant Group, Inc.",
+        "totalAmountToBeRecovered": "$8.71",
+        "currentOutstanding": "$4.53",
+        "emiCollected": "1/3",
+        "emiAmount": "$0.64"
+    },
+    {
+        "empId": "2469",
+        "empName": "Aubert Cleaver",
+        "buName": "Novartis AG",
+        "totalAmountToBeRecovered": "$8.18",
+        "currentOutstanding": "$8.68",
+        "emiCollected": "1/3",
+        "emiAmount": "$8.16"
+    },
+    {
+        "empId": "37",
+        "empName": "Michal Mannion",
+        "buName": "Visteon Corporation",
+        "totalAmountToBeRecovered": "$0.27",
+        "currentOutstanding": "$9.30",
+        "emiCollected": "1/3",
+        "emiAmount": "$3.13"
+    },
+    {
+        "empId": "041",
+        "empName": "Gregorius De Normanville",
+        "buName": "Consolidated Water Co. Ltd.",
+        "totalAmountToBeRecovered": "$5.66",
+        "currentOutstanding": "$6.91",
+        "emiCollected": "1/3",
+        "emiAmount": "$1.66"
+    },
+    {
+        "empId": "370",
+        "empName": "Archer Guinane",
+        "buName": "Blackrock Floating Rate Income Strategies Fund Inc",
+        "totalAmountToBeRecovered": "$4.73",
+        "currentOutstanding": "$0.41",
+        "emiCollected": "1/3",
+        "emiAmount": "$3.23"
+    },
+    {
+        "empId": "273",
+        "empName": "Morley Duligall",
+        "buName": "Francesca's Holdings Corporation",
+        "totalAmountToBeRecovered": "$1.54",
+        "currentOutstanding": "$4.01",
+        "emiCollected": "1/3",
+        "emiAmount": "$0.32"
+    },
+    {
+        "empId": "075",
+        "empName": "Brian Morbey",
+        "buName": "ExlService Holdings, Inc.",
+        "totalAmountToBeRecovered": "$7.64",
+        "currentOutstanding": "$6.11",
+        "emiCollected": "1/3",
+        "emiAmount": "$7.70"
+    },
+    {
+        "empId": "9",
+        "empName": "Nikolai Pilkington",
+        "buName": "Snap-On Incorporated",
+        "totalAmountToBeRecovered": "$0.33",
+        "currentOutstanding": "$4.71",
+        "emiCollected": "1/3",
+        "emiAmount": "$3.66"
+    },
+    {
+        "empId": "499",
+        "empName": "Conny Pavolini",
+        "buName": "AdvanSix Inc.",
+        "totalAmountToBeRecovered": "$4.09",
+        "currentOutstanding": "$2.87",
+        "emiCollected": "1/3",
+        "emiAmount": "$6.46"
+    },
+    {
+        "empId": "156",
+        "empName": "Sancho Aynscombe",
+        "buName": "Vanguard Intermediate-Term Corporate Bond ETF",
+        "totalAmountToBeRecovered": "$7.16",
+        "currentOutstanding": "$1.72",
+        "emiCollected": "1/3",
+        "emiAmount": "$4.56"
+    },
+    {
+        "empId": "297",
+        "empName": "Sibeal Angless",
+        "buName": "Genomic Health, Inc.",
+        "totalAmountToBeRecovered": "$0.80",
+        "currentOutstanding": "$5.12",
+        "emiCollected": "1/3",
+        "emiAmount": "$8.77"
+    },
+    {
+        "empId": "0414",
+        "empName": "Laurel Sture",
+        "buName": "ImmunoGen, Inc.",
+        "totalAmountToBeRecovered": "$5.58",
+        "currentOutstanding": "$7.65",
+        "emiCollected": "1/3",
+        "emiAmount": "$8.71"
+    },
+    {
+        "empId": "04",
+        "empName": "Madge Varker",
+        "buName": "Gores Holdings II, Inc.",
+        "totalAmountToBeRecovered": "$8.60",
+        "currentOutstanding": "$1.64",
+        "emiCollected": "1/3",
+        "emiAmount": "$4.18"
+    },
+    {
+        "empId": "0",
+        "empName": "Liva Scholling",
+        "buName": "International Bancshares Corporation",
+        "totalAmountToBeRecovered": "$3.68",
+        "currentOutstanding": "$9.36",
+        "emiCollected": "1/3",
+        "emiAmount": "$8.85"
+    },
+    {
+        "empId": "1294",
+        "empName": "Tonya Llewelly",
+        "buName": "Western Asset/Claymore U.S Treasury Inflation Prot Secs Fd 2",
+        "totalAmountToBeRecovered": "$9.35",
+        "currentOutstanding": "$5.35",
+        "emiCollected": "1/3",
+        "emiAmount": "$1.08"
+    },
+    {
+        "empId": "71",
+        "empName": "Godfree De Zamudio",
+        "buName": "Ocean Bio-Chem, Inc.",
+        "totalAmountToBeRecovered": "$1.42",
+        "currentOutstanding": "$0.29",
+        "emiCollected": "1/3",
+        "emiAmount": "$8.05"
+    },
+    {
+        "empId": "68",
+        "empName": "Freeman Owers",
+        "buName": "Invesco High Income Trust II",
+        "totalAmountToBeRecovered": "$3.12",
+        "currentOutstanding": "$2.41",
+        "emiCollected": "1/3",
+        "emiAmount": "$1.89"
+    },
+    {
+        "empId": "771",
+        "empName": "Balduin Swait",
+        "buName": "T-Mobile US, Inc.",
+        "totalAmountToBeRecovered": "$1.94",
+        "currentOutstanding": "$8.57",
+        "emiCollected": "1/3",
+        "emiAmount": "$4.36"
+    },
+    {
+        "empId": "636",
+        "empName": "Tommie Fairfull",
+        "buName": "GP Investments Acquisition Corp.",
+        "totalAmountToBeRecovered": "$3.94",
+        "currentOutstanding": "$4.60",
+        "emiCollected": "1/3",
+        "emiAmount": "$9.48"
+    },
+    {
+        "empId": "82",
+        "empName": "Carlos Gieraths",
+        "buName": "Corbus Pharmaceuticals Holdings, Inc.",
+        "totalAmountToBeRecovered": "$1.73",
+        "currentOutstanding": "$3.94",
+        "emiCollected": "1/3",
+        "emiAmount": "$2.30"
+    },
+    {
+        "empId": "4220",
+        "empName": "Sile Akred",
+        "buName": "JMP Group LLC",
+        "totalAmountToBeRecovered": "$4.14",
+        "currentOutstanding": "$9.37",
+        "emiCollected": "1/3",
+        "emiAmount": "$9.08"
+    },
+    {
+        "empId": "1544",
+        "empName": "Josey Brownfield",
+        "buName": "National Grid Transco, PLC",
+        "totalAmountToBeRecovered": "$5.05",
+        "currentOutstanding": "$5.03",
+        "emiCollected": "1/3",
+        "emiAmount": "$0.57"
+    },
+    {
+        "empId": "32131",
+        "empName": "Ingelbert Cornewell",
+        "buName": "Nuveen Quality Preferred Income Fund 2",
+        "totalAmountToBeRecovered": "$8.22",
+        "currentOutstanding": "$5.31",
+        "emiCollected": "1/3",
+        "emiAmount": "$9.50"
+    },
+    {
+        "empId": "81",
+        "empName": "Weston Strange",
+        "buName": "Organovo Holdings, Inc.",
+        "totalAmountToBeRecovered": "$1.74",
+        "currentOutstanding": "$2.00",
+        "emiCollected": "1/3",
+        "emiAmount": "$6.65"
+    },
+    {
+        "empId": "6",
+        "empName": "Quent Hollyard",
+        "buName": "Telephone and Data Systems, Inc.",
+        "totalAmountToBeRecovered": "$0.87",
+        "currentOutstanding": "$3.15",
+        "emiCollected": "1/3",
+        "emiAmount": "$8.57"
+    },
+    {
+        "empId": "6414",
+        "empName": "Chelsae Vowels",
+        "buName": "New Residential Investment Corp.",
+        "totalAmountToBeRecovered": "$2.76",
+        "currentOutstanding": "$3.35",
+        "emiCollected": "1/3",
+        "emiAmount": "$3.58"
+    },
+    {
+        "empId": "9",
+        "empName": "Hammad Betho",
+        "buName": "Macatawa Bank Corporation",
+        "totalAmountToBeRecovered": "$5.30",
+        "currentOutstanding": "$7.95",
+        "emiCollected": "1/3",
+        "emiAmount": "$8.92"
+    },
+    {
+        "empId": "5938",
+        "empName": "Tori Andrag",
+        "buName": "Kitov Pharmaceuticals Holdings Ltd.",
+        "totalAmountToBeRecovered": "$2.02",
+        "currentOutstanding": "$3.70",
+        "emiCollected": "1/3",
+        "emiAmount": "$8.08"
+    },
+    {
+        "empId": "84966",
+        "empName": "Justinian Han",
+        "buName": "First Trust Multi-Asset Diversified Income Index Fund",
+        "totalAmountToBeRecovered": "$0.32",
+        "currentOutstanding": "$2.84",
+        "emiCollected": "1/3",
+        "emiAmount": "$6.80"
+    },
+    {
+        "empId": "06",
+        "empName": "Allyson Leggitt",
+        "buName": "SandRidge Mississippian Trust II",
+        "totalAmountToBeRecovered": "$5.08",
+        "currentOutstanding": "$7.91",
+        "emiCollected": "1/3",
+        "emiAmount": "$0.27"
+    },
+    {
+        "empId": "716",
+        "empName": "Hilary Harrigan",
+        "buName": "Merrill Lynch & Co., Inc.",
+        "totalAmountToBeRecovered": "$1.41",
+        "currentOutstanding": "$3.24",
+        "emiCollected": "1/3",
+        "emiAmount": "$6.84"
+    },
+    {
+        "empId": "0572",
+        "empName": "Corbett Bromehed",
+        "buName": "Alimera Sciences, Inc.",
+        "totalAmountToBeRecovered": "$9.89",
+        "currentOutstanding": "$8.02",
+        "emiCollected": "1/3",
+        "emiAmount": "$3.15"
+    },
+    {
+        "empId": "7113",
+        "empName": "Nancie Le feuvre",
+        "buName": "Quantum Corporation",
+        "totalAmountToBeRecovered": "$8.98",
+        "currentOutstanding": "$6.79",
+        "emiCollected": "1/3",
+        "emiAmount": "$8.70"
+    },
+    {
+        "empId": "53",
+        "empName": "Cammy Sheron",
+        "buName": "Pan American Silver Corp.",
+        "totalAmountToBeRecovered": "$0.28",
+        "currentOutstanding": "$5.72",
+        "emiCollected": "1/3",
+        "emiAmount": "$8.66"
+    },
+    {
+        "empId": "40027",
+        "empName": "L;urette Espinosa",
+        "buName": "Marine Petroleum Trust",
+        "totalAmountToBeRecovered": "$8.54",
+        "currentOutstanding": "$0.34",
+        "emiCollected": "1/3",
+        "emiAmount": "$6.52"
+    },
+    {
+        "empId": "9",
+        "empName": "Maddy Favelle",
+        "buName": "Gladstone Commercial Corporation",
+        "totalAmountToBeRecovered": "$9.04",
+        "currentOutstanding": "$3.14",
+        "emiCollected": "1/3",
+        "emiAmount": "$3.23"
+    },
+    {
+        "empId": "8815",
+        "empName": "Charlena Proback",
+        "buName": "Colonial Intermediate High Income Fund",
+        "totalAmountToBeRecovered": "$4.82",
+        "currentOutstanding": "$0.15",
+        "emiCollected": "1/3",
+        "emiAmount": "$3.20"
+    },
+    {
+        "empId": "731",
+        "empName": "Glenn Simko",
+        "buName": "Peoples Financial Corporation",
+        "totalAmountToBeRecovered": "$4.81",
+        "currentOutstanding": "$9.44",
+        "emiCollected": "1/3",
+        "emiAmount": "$5.71"
+    },
+    {
+        "empId": "5049",
+        "empName": "Karissa Matuszewski",
+        "buName": "PIMCO Strategic Income Fund, Inc.",
+        "totalAmountToBeRecovered": "$7.93",
+        "currentOutstanding": "$1.24",
+        "emiCollected": "1/3",
+        "emiAmount": "$0.51"
+    },
+    {
+        "empId": "81",
+        "empName": "Albie Bony",
+        "buName": "Caterpillar, Inc.",
+        "totalAmountToBeRecovered": "$2.88",
+        "emiCollected": "1/3",
+        "currentOutstanding": "$3.53",
+        "emiAmount": "$8.30"
+    },
+    {
+        "empId": "87",
+        "empName": "Mabel Van den Velden",
+        "buName": "Century Communities, Inc.",
+        "totalAmountToBeRecovered": "$3.94",
+        "currentOutstanding": "$0.43",
+        "emiCollected": "1/3",
+        "emiAmount": "$8.78"
+    },
+    {
+        "empId": "065",
+        "empName": "Rodolph Petras",
+        "buName": "CVS Health Corporation",
+        "totalAmountToBeRecovered": "$6.99",
+        "currentOutstanding": "$1.22",
+        "emiCollected": "1/3",
+        "emiAmount": "$3.78"
+    },
+    {
+        "empId": "70219",
+        "empName": "Jacklyn O'Corren",
+        "buName": "Cass Information Systems, Inc",
+        "totalAmountToBeRecovered": "$0.65",
+        "currentOutstanding": "$8.56",
+        "emiCollected": "1/3",
+        "emiAmount": "$9.97"
+    },
+    {
+        "empId": "93132",
+        "empName": "Baxie Mansion",
+        "buName": "Affimed N.V.",
+        "totalAmountToBeRecovered": "$4.48",
+        "currentOutstanding": "$3.15",
+        "emiCollected": "1/3",
+        "emiAmount": "$2.41"
+    },
+    {
+        "empId": "8",
+        "empName": "Alikee Lurcock",
+        "buName": "NASDAQ TEST STOCK",
+        "totalAmountToBeRecovered": "$1.68",
+        "currentOutstanding": "$2.25",
+        "emiCollected": "1/3",
+        "emiAmount": "$5.25"
+    },
+    {
+        "empId": "534",
+        "empName": "Joan Cowton",
+        "buName": "Benitec Biopharma Limited",
+        "totalAmountToBeRecovered": "$6.15",
+        "currentOutstanding": "$6.92",
+        "emiCollected": "1/3",
+        "emiAmount": "$5.55"
+    },
+    {
+        "empId": "057",
+        "empName": "Marco Borless",
+        "buName": "New Home Company Inc. (The)",
+        "totalAmountToBeRecovered": "$8.84",
+        "currentOutstanding": "$2.67",
+        "emiCollected": "1/3",
+        "emiAmount": "$2.23"
+    }
+]
